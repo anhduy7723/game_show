@@ -156,55 +156,55 @@ var stages = {
   stage2: {
     data: [
         {
-            "question": "Thủ đô của nước Pháp là gì?",
+            "question": "Ai là người sáng lập nước Cộng hòa xã hội chủ nghĩa Việt Nam, nay là nước Cộng hòa xã hội chủ nghĩa Việt Nam?",
             "options": [
-                "A: London",
-                "B: Berlin",
-                "C: Madrid",
-                "D: Paris",
+              "A: Hồ Chí Minh",
+              "B: Nguyễn Văn Linh",
+              "C: Lê Duẩn",
+              "D: Trần Hưng Đạo"
             ],
-            "ans": "D"
-        },
-        {
-            "question": "Ai là tác giả của vở kịch 'Romeo và Juliet'?",
+            "ans": "A"
+          },
+          {
+            "question": "Thành phố nào là thủ đô của Việt Nam?",
             "options": [
-                "A: Charles Dickens",
-                "B: William Shakespeare",
-                "C: Jane Austen",
-                "D: Mark Twain",
-            ],
-            "ans": "B"
-        },
-        {
-            "question": "Hành tinh nào được biết đến là 'Hành tinh Đỏ'?",
-            "options": [
-                "A: Venus",
-                "B: Mars",
-                "C: Jupiter",
-                "D: Saturn",
+              "A: Hồ Chí Minh",
+              "B: Hà Nội",
+              "C: Đà Nẵng",
+              "D: Huế"
             ],
             "ans": "B"
-        },
-        {
-            "question": "Loài động vật nào là loài lớn nhất trên thế giới?",
+          },
+          {
+            "question": "Điểm đặc biệt nào của phở, món ăn nổi tiếng của Việt Nam?",
             "options": [
-                "A: Voi",
-                "B: Cá Voi Xanh",
-                "C: Hươu cao cổ",
-                "D: Hà mã",
+              "A: Nước mắt",
+              "B: Bún",
+              "C: Hành",
+              "D: Gạo"
+            ],
+            "ans": "A"
+          },
+          {
+            "question": "Ai là vị tướng nổi tiếng của Việt Nam, nổi danh trong cuộc chiến tranh Việt Nam?",
+            "options": [
+              "A: Lê Lợi",
+              "B: Võ Nguyên Giáp",
+              "C: Ngô Quyền",
+              "D: Trịnh Đình Thảo"
             ],
             "ans": "B"
-        },
-        {
-            "question": "Khí nào cây cối hấp thụ từ khí quyển?",
+          },
+          {
+            "question": "Tượng đài của vị vua Lý Thái Tổ, người sáng lập vương triều Lý ở Việt Nam, nằm ở thành phố nào?",
             "options": [
-                "A: Oxygen",
-                "B: Carbon Dioxide",
-                "C: Nitrogen",
-                "D: Hydrogen",
+              "A: Huế",
+              "B: Đà Nẵng",
+              "C: Hà Nội",
+              "D: Sài Gòn (Thành phố Hồ Chí Minh)"
             ],
-            "ans": "B"
-        },
+            "ans": "C"
+          },
         {
             "question": "Thành phần chính của khí quyển Trái đất là gì?",
             "options": [
@@ -322,208 +322,308 @@ var stages = {
 stage3: {
   data: [
     {
-      "question": "Chai là một công cụ được sử dụng cho mục đích gì?",
-      "options": [
-        "A: Kiểm thử",
-        "B: Đóng gói module",
-        "C: Thiết kế",
-        "D: Khoa học dữ liệu",
-      ],
-      "ans": "A"
-    },
+        "question": "Ai là vị anh hùng dân tộc Việt Nam nổi tiếng với chiến thắng trong trận Bạch Đằng năm 1288?",
+        "options": [
+          "A: Lý Thường Kiệt",
+          "B: Trần Hưng Đạo",
+          "C: Nguyễn Huệ",
+          "D: Võ Nguyên Giáp"
+        ],
+        "ans": "B"
+      },
+      {
+        "question": "Dân chơi đường xa thường nói: 'Đường dài mới ngọt' để ám chỉ điều gì?",
+        "options": [
+          "A: Sự thành công đến từ nỗ lực",
+          "B: Sự kiên nhẫn trong cuộc sống",
+          "C: Sự đối mặt với khó khăn",
+          "D: Sự thách thức trong tình yêu"
+        ],
+        "ans": "A"
+      },
+      {
+        "question": "Dòng sông nào chảy qua Thủ đô Hà Nội của Việt Nam?",
+        "options": [
+          "A: Sông Hồng",
+          "B: Sông Cửu Long",
+          "C: Sông Mekong",
+          "D: Sông Đà"
+        ],
+        "ans": "A"
+      },
+      {
+        "question": "Món ăn truyền thống nổi tiếng của Việt Nam được làm từ bánh tráng, gia vị, thịt lợn, và rau sống, thường được cuốn lại và ăn kèm với nước mắm là gì?",
+        "options": [
+          "A: Bún chả",
+          "B: Phở",
+          "C: Gỏi cuốn",
+          "D: Bánh mì phô mai"
+        ],
+        "ans": "A"
+      },
+      {
+        "question": "Ngày Quốc khánh của Việt Nam là ngày nào trong năm?",
+        "options": [
+          "A: 1 tháng 1",
+          "B: 2 tháng 9",
+          "C: 30 tháng 4",
+          "D: 20 tháng 11"
+        ],
+        "ans": "B"
+      },
     {
-      "question": "Công cụ nào sau đây không được sử dụng để đóng gói module và thực thi nhiệm vụ?",
-      "options": [
-        "A: Webpack",
-        "B: Mocha",
-        "C: Gulp",
-        "D: Grunt",
-      ],
-      "ans": "B"
-    },
-    {
-      "question": "Thư viện Python Tkinter được sử dụng cho mục đích gì?",
-      "options": [
-        "A: Trí tuệ nhân tạo",
-        "B: Học máy",
-        "C: Phát triển ứng dụng máy tính để bàn",
-        "D: Phát triển ứng dụng di động",
-      ],
-      "ans": "C"
-    },
-    {
-      "question": "Ngôn ngữ lập trình Golang (Go) được tạo ra tại đâu?",
-      "options": [
-        "A: Facebook",
-        "B: Zeit",
-        "C: Microsoft",
-        "D: Google",
-      ],
-      "ans": "D"
-    },
-    {
-      "question": "Scrapy là một framework được sử dụng cho mục đích gì?",
-      "options": [
-        "A: Thu thập dữ liệu web",
-        "B: Phát triển game",
-        "C: Sniff mạng",
-        "D: Phát triển web",
-      ],
-      "ans": "A"
-    },
-    {
-      "question": "Node.js thường nổi tiếng với điểm mạnh nào sau đây?",
-      "options": [
-        "A: Tốc độ",
-        "B: Hiệu suất",
-        "C: Đơn giản",
-        "D: Bất đồng bộ",
-      ],
-      "ans": "D"
-    },
-    {
-      "question": "Hành tinh lớn nhất trong hệ mặt trời là gì?",
-      "options": [
-        "A: Sao Thổ",
-        "B: Sao Mộc",
-        "C: Trái Đất",
-        "D: Sao Thiên Vương",
-      ],
-      "ans": "B"
-    },
-    {
-      "question": "Ngôn ngữ lập trình Python được tạo ra vào năm nào?",
-      "options": [
-        "A: 1991",
-        "B: 2000",
-        "C: 2010",
-        "D: 2020",
-      ],
-      "ans": "A"
-    },
-    {
-      "question": "Phần mềm nào sau đây được sử dụng để thiết kế đồ họa vector?",
-      "options": [
-        "A: Adobe Photoshop",
-        "B: GIMP",
-        "C: Adobe Illustrator",
-        "D: CorelDRAW",
-      ],
-      "ans": "C"
-    },
-    {
-      "question": "Trong toán học, số nào được gọi là số Pi (π)?",
-      "options": [
-        "A: 2.71828",
-        "B: 3.14159",
-        "C: 1.61803",
-        "D: 0.57721",
-      ],
-      "ans": "B"
-    },
-    {
-      "question": "Nơi nào được coi là thủ đô của ngành công nghiệp điện tử?",
-      "options": [
-        "A: Tokyo, Nhật Bản",
-        "B: Seoul, Hàn Quốc",
-        "C: Shenzhen, Trung Quốc",
-        "D: San Francisco, Mỹ",
-      ],
-      "ans": "C"
-    },
-    {
-      "question": "Thành phố nào được coi là trái tim của nghệ thuật và văn hóa Ý?",
-      "options": [
-        "A: Milan",
-        "B: Florence",
-        "C: Venice",
-        "D: Rome",
-      ],
-      "ans": "B"
-    },
-    {
-      "question": "Loại năng lượng nào được tạo ra từ phản ứng hạt nhân?",
-      "options": [
-        "A: Năng lượng mặt trời",
-        "B: Năng lượng gió",
-        "C: Năng lượng hạt nhân",
-        "D: Năng lượng nhiệt động",
-      ],
-      "ans": "C"
-    },
-    {
-      "question": "Quái vật nào được biểu tượng của Loch Ness ở Scotland?",
-      "options": [
-        "A: Rồng",
-        "B: Sư tử biển",
-        "C: Quái vật Loch Ness",
-        "D: Kỳ lân",
-      ],
-      "ans": "C"
-    },
-    {
-      "question": "Cuốn sách nào sau đây được viết bởi George Orwell và mô tả một xã hội totalitarism trong tương lai?",
-      "options": [
-        "A: 1984",
-        "B: Farm động vật",
-        "C: Thế giới mới tươi đẹp",
-        "D: Chuyện kể của người hầu gái",
-      ],
-      "ans": "A"
-    },
+    "question": "Trong cuộc sống hàng ngày, một miếng bánh mỳ thường được cắt thành bao nhiêu phần để ăn?",
+    "options": [
+      "A: 2 phần",
+      "B: 4 phần",
+      "C: 6 phần",
+      "D: 8 phần"
+    ],
+    "ans": "B"
+  },
+  {
+    "question": "Loại trái cây nào thường được ăn để cung cấp vitamin C trong cuộc sống hàng ngày?",
+    "options": [
+      "A: Chuối",
+      "B: Dứa",
+      "C: Cam",
+      "D: Mận"
+    ],
+    "ans": "C"
+  },
+  {
+    "question": "Trong cuộc sống hàng ngày, loại thức uống nào được làm từ lá trà?",
+    "options": [
+      "A: Cà phê",
+      "B: Soda",
+      "C: Nước ép cam",
+      "D: Trà"
+    ],
+    "ans": "D"
+  },
+  {
+    "question": "Nhân vật nào trong truyện cổ tích 'Bạch Tuyết và Bảy Chú Lùn' là người ăn một miếng táo độc?",
+    "options": [
+      "A: Bạch Tuyết",
+      "B: Công chúa",
+      "C: Bảy Chú Lùn",
+      "D: Phù thủy"
+    ],
+    "ans": "A"
+  },
+  {
+    "question": "Thức uống phổ biến nào thường được uống để thức tỉnh và bắt đầu một ngày mới?",
+    "options": [
+      "A: Bia",
+      "B: Trà",
+      "C: Cà phê",
+      "D: Sữa"
+    ],
+    "ans": "C"
+  },
+  {
+    "question": "Trong cuộc sống hàng ngày, loại hình giải trí nào thường được chơi trên một bàn có 64 ô vuông?",
+    "options": [
+      "A: Cờ vua",
+      "B: Cờ tướng",
+      "C: Cờ caro",
+      "D: Cờ đá"
+    ],
+    "ans": "A"
+  },
+  {
+    "question": "Loại thú cưng nào thường được nuôi trong một bể nước nhỏ trong nhà?",
+    "options": [
+      "A: Chó",
+      "B: Mèo",
+      "C: Cá cảnh",
+      "D: Chuột"
+    ],
+    "ans": "C"
+  },
+  {
+    "question": "Kỳ nghỉ nào thường được ăn mừng bằng việc chia sẻ quà tặng và bữa tiệc trong cuộc sống hàng ngày?",
+    "options": [
+      "A: Sinh nhật",
+      "B: Tết Nguyên Đán",
+      "C: Giáng sinh",
+      "D: Lễ tạ ơn"
+    ],
+    "ans": "C"
+  },
+  {
+    "question": "Trong cuộc sống hàng ngày, loại hoa nào thường được sử dụng để thể hiện tình cảm và lòng biết ơn?",
+    "options": [
+      "A: Hoa hồng",
+      "B: Hoa lan",
+      "C: Hoa cúc",
+      "D: Hoa cỏ"
+    ],
+    "ans": "A"
+  },
+  {
+    "question": "Trong cuộc sống hàng ngày, món ăn nào thường được làm từ sữa và bột mỳ, sau đó được nướng để tạo ra?",
+    "options": [
+      "A: Bánh mì",
+      "B: Bánh flan",
+      "C: Pizza",
+      "D: Bánh trung thu"
+    ],
+    "ans": "A"
+  },
+  {
+    "question": "Trong cuộc sống hàng ngày, một miếng bánh mỳ thường được cắt thành bao nhiêu phần để ăn?",
+    "options": [
+      "A: 2 phần",
+      "B: 4 phần",
+      "C: 6 phần",
+      "D: 8 phần"
+    ],
+    "ans": "B"
+  },
+  {
+    "question": "Loại trái cây nào thường được ăn để cung cấp vitamin C trong cuộc sống hàng ngày?",
+    "options": [
+      "A: Chuối",
+      "B: Dứa",
+      "C: Cam",
+      "D: Mận"
+    ],
+    "ans": "C"
+  },
+  {
+    "question": "Trong cuộc sống hàng ngày, loại thức uống nào được làm từ lá trà?",
+    "options": [
+      "A: Cà phê",
+      "B: Soda",
+      "C: Nước ép cam",
+      "D: Trà"
+    ],
+    "ans": "D"
+  },
+  {
+    "question": "Nhân vật nào trong truyện cổ tích 'Bạch Tuyết và Bảy Chú Lùn' là người ăn một miếng táo độc?",
+    "options": [
+      "A: Bạch Tuyết",
+      "B: Công chúa",
+      "C: Bảy Chú Lùn",
+      "D: Phù thủy"
+    ],
+    "ans": "A"
+  },
+  {
+    "question": "Thức uống phổ biến nào thường được uống để thức tỉnh và bắt đầu một ngày mới?",
+    "options": [
+      "A: Bia",
+      "B: Trà",
+      "C: Cà phê",
+      "D: Sữa"
+    ],
+    "ans": "C"
+  },
+  {
+    "question": "Trong cuộc sống hàng ngày, loại hình giải trí nào thường được chơi trên một bàn có 64 ô vuông?",
+    "options": [
+      "A: Cờ vua",
+      "B: Cờ tướng",
+      "C: Cờ caro",
+      "D: Cờ đá"
+    ],
+    "ans": "A"
+  },
+  {
+    "question": "Loại thú cưng nào thường được nuôi trong một bể nước nhỏ trong nhà?",
+    "options": [
+      "A: Chó",
+      "B: Mèo",
+      "C: Cá cảnh",
+      "D: Chuột"
+    ],
+    "ans": "C"
+  },
+  {
+    "question": "Kỳ nghỉ nào thường được ăn mừng bằng việc chia sẻ quà tặng và bữa tiệc trong cuộc sống hàng ngày?",
+    "options": [
+      "A: Sinh nhật",
+      "B: Tết Nguyên Đán",
+      "C: Giáng sinh",
+      "D: Lễ tạ ơn"
+    ],
+    "ans": "C"
+  },
+  {
+    "question": "Trong cuộc sống hàng ngày, loại hoa nào thường được sử dụng để thể hiện tình cảm và lòng biết ơn?",
+    "options": [
+      "A: Hoa hồng",
+      "B: Hoa lan",
+      "C: Hoa cúc",
+      "D: Hoa cỏ"
+    ],
+    "ans": "A"
+  },
+  {
+    "question": "Trong cuộc sống hàng ngày, món ăn nào thường được làm từ sữa và bột mỳ, sau đó được nướng để tạo ra?",
+    "options": [
+      "A: Bánh mì",
+      "B: Bánh flan",
+      "C: Pizza",
+      "D: Bánh trung thu"
+    ],
+    "ans": "A"
+  }
   ]
 },
 stage4: {
   data: [
-      {
-          "question": "Năm nào Laravel ra đời?",
-          "options": [
-              "A: 2011",
-              "B: 2013",
-              "C: 2015",
-              "D: 2017",
-          ],
-          "ans": "B"
+    {
+        "question": "Ai là người sáng lập nên Đền Hùng - một trong những kỷ vật của lịch sử Việt Nam?",
+        "options": [
+          "A: Lạc Long Quân",
+          "B: Hùng Vương",
+          "C: Âu Cơ",
+          "D: Lê Lợi"
+        ],
+        "ans": "B"
       },
       {
-          "question": "Phần mềm nào được sử dụng để quản lý mã nguồn (source code) của dự án phần mềm?",
-          "options": [
-              "A: Photoshop",
-              "B: Git",
-              "C: Visual Studio Code",
-              "D: Adobe Illustrator",
-          ],
-          "ans": "B"
+        "question": "Ai là người được coi là cha đẻ của tiếng Việt, với việc lập ra chữ quốc ngữ?",
+        "options": [
+          "A: Hồ Chí Minh",
+          "B: Trần Hưng Đạo",
+          "C: Lý Thường Kiệt",
+          "D: Alexandre de Rhodes"
+        ],
+        "ans": "D"
       },
       {
-          "question": "Ai là người sáng lập ra công ty Apple Inc.?",
-          "options": [
-              "A: Bill Gates",
-              "B: Mark Zuckerberg",
-              "C: Steve Jobs",
-              "D: Jeff Bezos",
-          ],
-          "ans": "C"
+        "question": "Tên gọi 'Hà Nội' có ý nghĩa gì trong tiếng Việt?",
+        "options": [
+          "A: Thành phố của hạt",
+          "B: Thành phố hùng vĩ",
+          "C: Thành phố tràn đầy nắng",
+          "D: Thành phố của hoa"
+        ],
+        "ans": "A"
       },
       {
-          "question": "Loại năng lượng nào không phát ra khí nhà kính?",
-          "options": [
-              "A: Than đá",
-              "B: Năng lượng mặt trời",
-              "C: Dầu hỏa",
-              "D: Khí đốt tự nhiên",
-          ],
-          "ans": "B"
+        "question": "Ngôi chùa nào nằm ở phía trên đỉnh núi Bà Đen, là một địa điểm tâm linh nổi tiếng ở miền Nam Việt Nam?",
+        "options": [
+          "A: Chùa Một Cột",
+          "B: Chùa Linh Ứng",
+          "C: Chùa Vạn Phật",
+          "D: Chùa Bà Đen"
+        ],
+        "ans": "D"
       },
       {
-          "question": "Thành phố nào được coi là trung tâm tài chính của thế giới?",
-          "options": [
-              "A: London",
-              "B: New York",
-              "C: Tokyo",
-              "D: Hong Kong",
-          ],
-          "ans": "B"
+        "question": "Thành phố nào được gọi là 'Thủ đô của hoa vàng cỏ xanh'?",
+        "options": [
+          "A: Đà Lạt",
+          "B: Nha Trang",
+          "C: Huế",
+          "D: Hà Nội"
+        ],
+        "ans": "A"
       },
       {
           "question": "Ngôn ngữ lập trình Python được tạo ra vào năm nào?",
@@ -783,16 +883,17 @@ stage5: {
 },
 stage6: {
   data: [
-      {
-          "question": "Ngôn ngữ lập trình Ruby được tạo ra bởi ai?",
-          "options": [
-              "A: Linus Torvalds",
-              "B: Guido van Rossum",
-              "C: Larry Wall",
-              "D: Yukihiro Matsumoto",
-          ],
-          "ans": "D"
-      },
+    {
+        "question": "Như cái cầu gỗ giữa dòng lũ, ai trong các vị dưới đây được gọi là 'đầu bạc, đuôi đuôi, giữa lưng rừng đùa'? (Chọn câu trả lời đúng A, B, C, hoặc D)",
+        "options": [
+          "A: Người thợ mỏ",
+          "B: Người thợ làm bánh",
+          "C: Người thợ rèn",
+          "D: Người thợ may"
+        ],
+        "ans": "C"
+      }
+,      
       {
           "question": "Trong tháng nào, Ngày Quốc tế Phụ nữ được tổ chức?",
           "options": [
@@ -937,15 +1038,15 @@ stage6: {
 },
 stage7: {
   data: [
-      {
-          "question": "Ngôn ngữ lập trình Python được tạo ra vào năm nào?",
-          "options": [
-              "A: 1989",
-              "B: 1991",
-              "C: 1995",
-              "D: 2000",
-          ],
-          "ans": "B"
+    {
+        "question": "Như con rồng độc mồm, tìm đến chết không ai khen lành. Ai trong danh sách dưới đây thường được gọi là 'Người bạn tốt nhất của con người'?",
+        "options": [
+          "A: Bài hát",
+          "B: Sách giáo khoa",
+          "C: Động vật cưng",
+          "D: Thư viện"
+        ],
+        "ans": "D"
       },
       {
           "question": "Nơi nào được coi là 'Trái tim của nghệ thuật và văn hóa Ý'?",
@@ -1091,15 +1192,15 @@ stage7: {
 },
 stage8: {
   data: [
-      {
-          "question": "Ngôn ngữ lập trình JavaScript được tạo ra vào năm nào?",
-          "options": [
-              "A: 1995",
-              "B: 2000",
-              "C: 2005",
-              "D: 2010",
-          ],
-          "ans": "A"
+    {
+        "question": "Như cây bàng trăm năm, ai trong danh sách dưới đây được gọi là 'Người có tri thức rộng và sâu'?",
+        "options": [
+          "A: Người thợ may",
+          "B: Thầy giáo",
+          "C: Học sinh",
+          "D: Nông dân"
+        ],
+        "ans": "B"
       },
       {
           "question": "Nơi nào được coi là 'Thành phố ánh sáng'?",

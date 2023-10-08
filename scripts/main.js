@@ -415,6 +415,7 @@ class Game {
     $("#game").hide();
     this.countdown = 45;
     this.enableCallFriendLifeline = true;
+    this.currentQuestionIndex = 0; // Đặt lại currentQuestionIndex về 0
     this.enableAskAudienceLifeline = true;
     this.enableFiftyFiftyLifeline = true;
     this.stageLength = 1;
